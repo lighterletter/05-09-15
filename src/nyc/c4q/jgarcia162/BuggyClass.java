@@ -64,4 +64,6 @@ public class BuggyClass {
         return sum_divide_and_conquer(lo, mid, A) + sum_divide_and_conquer(mid, hi, A);
     }
 
+    //This code is awesome!!
+
 }
